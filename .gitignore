@@ -1,3 +1,5 @@
 *.vscode/
 *Test.code-workspace
 *target/
+*.pdb
+*.exe
